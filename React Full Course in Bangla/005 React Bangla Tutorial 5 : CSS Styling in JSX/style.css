@@ -1,0 +1,10 @@
+.headingStyles{
+    background-color: red;
+    color: black;
+    text-align: center;
+    padding: "15px"
+}
+
+.largeText{
+    font-size: 3rem;
+}
